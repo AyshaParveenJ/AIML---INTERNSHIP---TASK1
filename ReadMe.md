@@ -20,16 +20,13 @@ To run this project, you'll need the following installed on your system:
 
 1.  **Clone the repository:**
     git clone [https://github.com/AyshaParveenJ/AIML---INTERNSHIP---TASK1.git](https://github.com/AyshaParveenJ/AIML---INTERNSHIP---TASK1.git)
-    ```
 
 2.  **Navigate to the project directory:**
     cd AIML---INTERNSHIP---TASK1
-    ```
 
 3.  **Install the required libraries:**
     The project relies on several key Python libraries. You can install them all at once using `pip`.
     pip install pandas matplotlib seaborn scikit-learn
-    ```
 
 ## Usage
 
